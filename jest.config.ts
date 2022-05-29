@@ -1,3 +1,4 @@
+/* eslint-disable */
 const config = {
   displayName: 'parse-text-cite',
   preset: '../../../jest.preset.js',
